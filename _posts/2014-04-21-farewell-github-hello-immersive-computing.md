@@ -1,21 +1,14 @@
 ---
 layout: post
-title: Farewell GitHub, Hello Immersive Computing
+title: The Transition of a Lifetime
 ---
 
 {{ page.title }}
 ================
 
-<p class="meta">21 Apr 2014 - New York City</p>
+<p class="meta">23 Aug 2014 - Charlotte, NC</p>
 
-Today is my last day at GitHub. Recent events have given me a lot of time to
-reflect on what's important to me, and I've decided to switch gears and focus on
-building something from scratch again. Since visiting the Oculus VR team at
-their office three months ago, I've come to believe that immersive computing
-(aka virtual reality) is poised to rival the personal computer, the web, social
-networking, and mobile devices in its impact. While the timing is more abrupt
-than I had intended, with everything that's happened, I think now is the right
-time to do this, and I'd like to explain why.
+I want to explain where I have been and where I am now
 
 First, I want to address the serious accusations that were made against me and
 my family over the past month. With every decision I made at GitHub and in every
