@@ -8,4 +8,4 @@ title: The Transition of a Lifetime
 
 <p class="meta">23 Aug 2014 - Charlotte, NC</p>
 
-I want to explain where I have been and where I am now
+##Coming soon...
